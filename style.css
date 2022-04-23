@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #222;
+    background-image: url("Screenshot 2022-04-24 003650.png");
+    font-family: 'Source Sans Pro', sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.card{
+    background: #000000d0;
+    color: white;
+    padding: 2rem;
+    border-radius: 2rem;
+    width: 100%;
+    max-width: 480px;
+    margin : 1em;
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    margin: 0.5em;
+    border-radius: 50%;
+    border: none;
+    height: 1.5em;
+}
