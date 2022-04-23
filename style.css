@@ -31,4 +31,15 @@ button{
     border: none;
     height: 2.5em;
     width: 2.5em;
+    outline: none;
+}
+input.search-bar{
+    border: none;
+    outline: none;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    background: #7c7c7c2b;
+    color: white;
+    font-family: inherit;
+    font-size: 120%;
 }
